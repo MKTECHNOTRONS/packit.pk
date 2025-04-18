@@ -1,0 +1,1 @@
+No Content: https://packit.pk/apps/pushowl/sdks/service-worker.js?v=2&subdomain=packit-pk
